@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+p {
+    background: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    color: black;
+}
+
+#id2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.cool-class {
+    font-size: 24px;
+}
+
+#id1 {
+    color: black;
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
